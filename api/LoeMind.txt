@@ -1,0 +1,5 @@
+start JSON-Server API here: 
+npm start
+OR
+start JSON-Server API in app-root dir by command: 
+npm run server 
